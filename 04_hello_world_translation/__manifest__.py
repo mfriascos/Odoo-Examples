@@ -30,8 +30,8 @@
     'summary': 'Hello World.',
     'depends': ['base'],
     'data': [
-              'views/views.xml',
-             'security/ir.model.access.csv'
+            'views/views.xml',
+            'security/ir.model.access.csv'
             ],
     'images': ['static/description/banner.jpg'],
 }
